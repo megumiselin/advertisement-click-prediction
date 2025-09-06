@@ -70,7 +70,7 @@ These metrics were chosen to evaluate not only correctness but also business-cri
 | Recall     | ~0.97     | ~0.96    |
 | F1-score   | ~0.97     | ~0.96    |
 
-Insight: Training and test scores are nearly identical → the model generalizes well and is business-ready.  
+The training (97.14%) and test (96.67%) accuracies are highly consistent, indicating that the model generalizes well and does not have overfitting
 
 ## Future Directions  
 ### Campaign Personalization  
